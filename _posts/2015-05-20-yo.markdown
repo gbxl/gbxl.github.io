@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Yo"
+date: 2015-05-20
+categories: first post
+---
+I had to start somewhere right? So here it is, I made this blog. I figured it
+used to be too easy to not write having the excuse that I didn't have anything
+set up yet and that by the time I'd have set up everything I wouldn't want to
+write anymore!
+Well take that laziness, I got you this time!
