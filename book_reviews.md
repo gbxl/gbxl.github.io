@@ -7,8 +7,8 @@ In 2020, I finally got around to re-start a good reading habit. I meant to do it
 
 To celebrate this achievement, I am making this page that will centralize my thoughts about the books, e-books and audio books I read/listen to.
 
-[Astrophysics for People in a Hurry - 2017 (Neil deGrasse Tyson)](/book/review/2020/05/10/astrophysics-for-people-in-a-hurry) \
-[Where good ideas come from - 2010 (Steven Johnson)](/book/review/2020/05/10/good-ideas) \
-Reading -- Accessory to War - 2018 (Neil deGrasse Tyson) \
-Reading -- The Three Body Problem - 2008 (Liu Cixin) \
-Listening to -- How to Read the Bible - 2007 (James L. Kugel) \
+[Astrophysics for People in a Hurry - 2017 (Neil deGrasse Tyson)](/book/review/2020/05/10/astrophysics-for-people-in-a-hurry) <br/>
+[Where good ideas come from - 2010 (Steven Johnson)](/book/review/2020/05/10/good-ideas) <br/>
+Reading -- Accessory to War - 2018 (Neil deGrasse Tyson) <br/>
+Reading -- The Three Body Problem - 2008 (Liu Cixin) <br/>
+Listening to -- How to Read the Bible - 2007 (James L. Kugel) <br/>
