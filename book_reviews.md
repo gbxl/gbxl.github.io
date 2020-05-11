@@ -3,7 +3,7 @@ layout: page
 title: Book Reviews
 permalink: /book_reviews/
 ---
-In 2020, I finally got around to re-start a good reading habit. I meant to do it for a while but always got distracted by more brain stimulating activities like wathcing endless youtube and scrolling Reddit.
+In 2020, I finally got around to re-start a good reading habit. I meant to do it for a while but always got distracted by more brain stimulating activities like watching endless youtube and scrolling Reddit.
 
 To celebrate this achievement, I am making this page that will centralize my thoughts about the books, e-books and audio books I read/listen to.
 
