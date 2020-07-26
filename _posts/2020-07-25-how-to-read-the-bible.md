@@ -2,7 +2,7 @@
 layout: post
 title: "How to read the bible"
 date: 2020-07-25
-categories: book review audiobook
+categories: book review
 ---
 
 By James Kugel, published 2007
