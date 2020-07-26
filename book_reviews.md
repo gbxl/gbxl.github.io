@@ -11,4 +11,5 @@ To celebrate this achievement, I am making this page that will centralize my tho
 [Where good ideas come from - 2010 (Steven Johnson)](/book/review/2020/05/10/good-ideas) <br/>
 Reading -- Accessory to War - 2018 (Neil deGrasse Tyson) <br/>
 [The Three Body Problem - 2008 (Liu Cixin)](/book/review/2020/05/23/three-body) <br/>
-Listening to -- How to Read the Bible - 2007 (James L. Kugel) <br/>
+[How to Read the Bible - 2007 (James L. Kugel)](/book/review/2020/07/25/how-to-read-the-bible) <br/>
+[L'histoire de ta bêtise - 2020 (François Bégaudeau)](/book/review/2020/07/25/histoire-de-ta-betise) <br />
